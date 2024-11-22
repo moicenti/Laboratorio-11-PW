@@ -1,2 +1,1 @@
-# Laboratorio-11-PW
-LAbo 1
+# Laboratorio-11-Plantilla
